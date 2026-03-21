@@ -4,13 +4,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-TenGoals — a static marketing website for the TenGoals iOS app (daily goal journal). Single-page scrollable site driving App Store downloads and organic search traffic.
+10 Goal Writing & Manifest — a static marketing website for the 10 Goal Writing & Manifest iOS app (daily goal journal). Single-page scrollable site driving App Store downloads and organic search traffic.
 
 ## Tech Stack
 
 - **Vanilla HTML/CSS/JS** — no build step, no frameworks
 - **Hosting target:** GitHub Pages (static files served from `main` branch)
-- **Domain:** tengoals.app (when configured via CNAME)
+- **Domain:** taraschernysh.github.io/DailyGoalsManifestationWeb
 
 ## File Structure (target)
 

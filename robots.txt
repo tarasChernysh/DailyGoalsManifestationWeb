@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tengoals.app/sitemap.xml
+Sitemap: https://taraschernysh.github.io/DailyGoalsManifestationWeb/sitemap.xml

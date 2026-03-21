@@ -1,5 +1,5 @@
 /**
- * TenGoals Website — Progressive Enhancement JS
+ * 10 Goal Writing & Manifest Website — Progressive Enhancement JS
  * Nav toggle, scroll spy, smooth scroll, mobile menu
  */
 
