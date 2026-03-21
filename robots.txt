@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tengoals.app/sitemap.xml
