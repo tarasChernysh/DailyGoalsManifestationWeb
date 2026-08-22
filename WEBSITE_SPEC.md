@@ -1,4 +1,4 @@
-# TenGoals — Website Specification
+# 10 Goals Daily Writing - Tenly — Website Specification
 
 > **Version:** 1.0  
 > **Date:** March 21, 2026  
@@ -11,7 +11,7 @@
 
 ### 1.1 Purpose
 
-A simple, fast, SEO-optimized static website that serves as the primary web presence for TenGoals — Daily Goal Journal (iOS). The site drives App Store downloads and captures organic search traffic across goal-setting and manifestation keywords.
+A simple, fast, SEO-optimized static website that serves as the primary web presence for 10 Goals Daily Writing - Tenly — Daily Goal Journal (iOS). The site drives App Store downloads and captures organic search traffic across goal-setting and manifestation keywords.
 
 ### 1.2 Key Decisions
 
@@ -63,7 +63,7 @@ The page is structured as a vertical scroll with anchored sections. The navigati
 ├─────────────────────────────────────────┤
 │                                         │
 │  §3 PAIN → SOLUTION                     │
-│  3-column grid: problem → how TenGoals  │
+│  3-column grid: problem → how Tenly     │
 │  solves it (from ABOUT.md pain points)  │
 │                                         │
 ├─────────────────────────────────────────┤
@@ -108,7 +108,7 @@ The page is structured as a vertical scroll with anchored sections. The navigati
 
 Sticky top nav, transparent on hero then solid white on scroll (with subtle shadow). Contents:
 
-- **Left:** TenGoals logo (app icon + wordmark)
+- **Left:** 10 Goals · Tenly logo (app icon + wordmark)
 - **Center/Right links:** Features · How It Works · Pricing · FAQ
 - **Right CTA:** "Download" button (amber, links to App Store)
 - **Mobile:** Hamburger menu with the same links
@@ -165,7 +165,7 @@ Sticky top nav, transparent on hero then solid white on scroll (with subtle shad
 
 **Content (derived from ABOUT.md):**
 
-| # | Icon | Pain Point | TenGoals Solution |
+| # | Icon | Pain Point | 10 Goals Daily Writing - Tenly Solution |
 |---|------|------------|-------------------|
 | 1 | 🔄 | **Mindless copying** — You reread yesterday's goals and write the same thing without thinking | **30-day lockout** — Past entries are hidden. You write from memory, which forces genuine reassessment of what matters. |
 | 2 | 🎯 | **No real priority** — Every goal feels equally important, so nothing gets real focus | **Magic Wand** — Each morning, you pick the ONE goal that would have the greatest impact right now. |
@@ -225,7 +225,7 @@ Sticky top nav, transparent on hero then solid white on scroll (with subtle shad
 
 | Step | Icon | Title | Description |
 |------|------|-------|-------------|
-| 1 | ☀️ | **Morning — Write** | Open TenGoals. Write up to 10 goals from memory. Add gratitude entries. Pick your Magic Wand goal. Takes 3–5 minutes. |
+| 1 | ☀️ | **Morning — Write** | Open 10 Goals Daily Writing - Tenly. Write up to 10 goals from memory. Add gratitude entries. Pick your Magic Wand goal. Takes 3–5 minutes. |
 | 2 | 🌙 | **Evening — Review** | Between 8–11 PM, re-read your goals in a calm, read-only view. No editing. Let them settle into your subconscious before sleep. |
 | 3 | 📈 | **Monthly — Discover** | After 10 days, your first AI report arrives. See your top goals, category patterns, and personalized insights. Compare reports month over month. |
 
@@ -275,13 +275,13 @@ Sticky top nav, transparent on hero then solid white on scroll (with subtle shad
 | # | Question | Answer |
 |---|----------|--------|
 | 1 | **What is the 10-goals method?** | It's a proven goal-setting technique where you write 10 goals every day from memory, in affirmation format — as if they're already achieved. Writing from memory (not copying) forces you to genuinely reassess what matters most, rather than mindlessly repeating yesterday's list. This daily practice rewires your focus toward your true priorities. |
-| 2 | **Why can't I see my past goals?** | TenGoals locks your past entries for 30 days on purpose. When you can see yesterday's goals, you copy them without thinking. The lockout forces you to write from memory, which means you only write down what genuinely matters to you right now. After 30 days, entries unlock for reflection. |
-| 3 | **What is the Magic Wand goal?** | Each day after writing your goals, TenGoals asks: "If you could only achieve ONE of these goals right now, which would have the greatest positive impact?" This daily prioritization exercise builds focus and feeds directly into your AI analysis, revealing which goals consistently matter most. |
-| 4 | **How does the AI report work?** | After 10 days of consistent entries, TenGoals generates your first AI-powered report. It analyzes your goal patterns, identifies your top recurring goals, breaks down which life categories you focus on, and provides personalized insights about your priorities and trends. Monthly reports get richer over time. |
-| 5 | **What is the evening review?** | Between 8–11 PM (configurable), TenGoals unlocks a read-only view of your day's goals. No editing allowed. The purpose is subconscious programming — re-reading your goals before sleep lets them settle into your mind overnight. Research suggests this primes your brain to work on solutions while you rest. |
-| 6 | **How does gratitude journaling work in TenGoals?** | Alongside your daily goals, you can write 1–5 things you're grateful for. Past gratitude entries are locked for 7 days to prevent hedonic adaptation — a psychological phenomenon where reflecting too often on the same things makes you take them for granted. Weekly reflections with AI-powered insights are available for Pro users. |
-| 7 | **Is TenGoals free?** | Yes — daily goal entry, gratitude journaling, the Magic Wand, evening review, streaks, progress tracking, and your first AI report are all free. Pro unlocks full report history, weekly insights, gratitude reflections, cross-analysis, and PDF export. There's a 30-day free trial of Pro so you can experience everything before deciding. |
-| 8 | **Does TenGoals sync across devices?** | Yes. TenGoals uses iCloud to automatically sync your goals, gratitude entries, and reports across all your Apple devices. No account creation required — it uses your existing iCloud account. |
+| 2 | **Why can't I see my past goals?** | 10 Goals Daily Writing - Tenly locks your past entries for 30 days on purpose. When you can see yesterday's goals, you copy them without thinking. The lockout forces you to write from memory, which means you only write down what genuinely matters to you right now. After 30 days, entries unlock for reflection. |
+| 3 | **What is the Magic Wand goal?** | Each day after writing your goals, 10 Goals Daily Writing - Tenly asks: "If you could only achieve ONE of these goals right now, which would have the greatest positive impact?" This daily prioritization exercise builds focus and feeds directly into your AI analysis, revealing which goals consistently matter most. |
+| 4 | **How does the AI report work?** | After 10 days of consistent entries, 10 Goals Daily Writing - Tenly generates your first AI-powered report. It analyzes your goal patterns, identifies your top recurring goals, breaks down which life categories you focus on, and provides personalized insights about your priorities and trends. Monthly reports get richer over time. |
+| 5 | **What is the evening review?** | Between 8–11 PM (configurable), 10 Goals Daily Writing - Tenly unlocks a read-only view of your day's goals. No editing allowed. The purpose is subconscious programming — re-reading your goals before sleep lets them settle into your mind overnight. Research suggests this primes your brain to work on solutions while you rest. |
+| 6 | **How does gratitude journaling work in 10 Goals Daily Writing - Tenly?** | Alongside your daily goals, you can write 1–5 things you're grateful for. Past gratitude entries are locked for 7 days to prevent hedonic adaptation — a psychological phenomenon where reflecting too often on the same things makes you take them for granted. Weekly reflections with AI-powered insights are available for Pro users. |
+| 7 | **Is 10 Goals Daily Writing - Tenly free?** | Yes — daily goal entry, gratitude journaling, the Magic Wand, evening review, streaks, progress tracking, and your first AI report are all free. Pro unlocks full report history, weekly insights, gratitude reflections, cross-analysis, and PDF export. There's a 30-day free trial of Pro so you can experience everything before deciding. |
+| 8 | **Does 10 Goals Daily Writing - Tenly sync across devices?** | Yes. 10 Goals Daily Writing - Tenly uses iCloud to automatically sync your goals, gratitude entries, and reports across all your Apple devices. No account creation required — it uses your existing iCloud account. |
 
 ---
 
@@ -306,7 +306,7 @@ Sticky top nav, transparent on hero then solid white on scroll (with subtle shad
 **Layout:** Simple, minimal. Dark text on light background.
 
 **Content:**
-- `© 2026 TenGoals` 
+- `© 2026 10 Goals Daily Writing - Tenly` 
 - Links: Privacy Policy (external URL) · Support (mailto link) · App Store
 - Optional: Social media icons (if accounts exist)
 
@@ -360,7 +360,7 @@ The keyword strategy covers both the goal-setting and manifestation/affirmation 
 #### Meta Tags
 
 ```html
-<title>TenGoals — Daily Goal Journal App | Write 10 Goals Every Day</title>
+<title>10 Goals Daily Writing - Tenly | Write 10 Goals Every Day</title>
 <meta name="description" content="Write 10 goals every morning from memory. Pick your #1 priority. Get AI-powered insights into your patterns. The daily goal-setting and manifestation journal for iOS.">
 <meta name="keywords" content="daily goal journal, goal setting app, 10 goals a day, manifestation journal, affirmation tracker, AI goal insights, morning routine app">
 <link rel="canonical" href="https://tengoals.app/">
@@ -369,13 +369,13 @@ The keyword strategy covers both the goal-setting and manifestation/affirmation 
 #### Open Graph / Social
 
 ```html
-<meta property="og:title" content="TenGoals — Write 10 Goals Every Day">
+<meta property="og:title" content="10 Goals Daily Writing - Tenly | Write 10 Goals Every Day">
 <meta property="og:description" content="The daily goal journal that forces clarity. Write from memory, pick your priority, get AI insights.">
 <meta property="og:image" content="/og-image.png"> <!-- 1200x630 social card -->
 <meta property="og:url" content="https://tengoals.app/">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="TenGoals — Write 10 Goals Every Day">
+<meta name="twitter:title" content="10 Goals Daily Writing - Tenly | Write 10 Goals Every Day">
 <meta name="twitter:description" content="The daily goal journal that forces clarity. Write from memory, pick your priority, get AI insights.">
 <meta name="twitter:image" content="/og-image.png">
 ```
@@ -389,7 +389,7 @@ Two schema types for rich results:
 {
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
-  "name": "TenGoals — Daily Goal Journal",
+  "name": "10 Goals Daily Writing - Tenly",
   "operatingSystem": "iOS",
   "applicationCategory": "LifestyleApplication",
   "offers": {
@@ -731,7 +731,7 @@ The site must be fully functional without JavaScript:
 - [ ] Submit sitemap
 - [ ] Request indexing of homepage
 - [ ] Monitor Core Web Vitals
-- [ ] Set up Google Alerts for "TenGoals" brand mentions
+- [ ] Set up Google Alerts for "10 Goals Daily Writing - Tenly" brand mentions
 - [ ] Add website URL to App Store listing
 - [ ] Add website URL to all social media profiles
 
@@ -755,7 +755,7 @@ These are **not in scope for v1** but the single-page architecture should be des
 
 The website should differentiate from competitors in the goal-setting app space by:
 
-1. **Not looking like a generic SaaS template** — Most goal apps use blue/purple gradients and stock imagery. TenGoals' warm amber + light background is distinctive.
+1. **Not looking like a generic SaaS template** — Most goal apps use blue/purple gradients and stock imagery. 10 Goals Daily Writing - Tenly’s warm amber + light background is distinctive.
 2. **Leading with methodology, not features** — The "write from memory" and "30-day lockout" mechanics are the story, not a feature list.
 3. **Showing real app UI** — Screenshots of the actual app (not mockups or illustrations) build trust and set accurate expectations.
 4. **SEO-first FAQ** — Most competitor sites skip FAQ. This is free long-tail traffic.

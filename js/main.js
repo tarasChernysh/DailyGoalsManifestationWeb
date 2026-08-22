@@ -1,5 +1,5 @@
 /**
- * 10 Goal Writing & Manifest Website — Progressive Enhancement JS
+ * 10 Goals Daily Writing - Tenly Website — Progressive Enhancement JS
  * Nav toggle, scroll spy, smooth scroll, mobile menu
  */
 

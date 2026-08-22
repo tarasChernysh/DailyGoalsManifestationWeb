@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-10 Goal Writing & Manifest — a static marketing website for the 10 Goal Writing & Manifest iOS app (daily goal journal). Single-page scrollable site driving App Store downloads and organic search traffic.
+10 Goals Daily Writing - Tenly — a static marketing website for the 10 Goals Daily Writing - Tenly iOS app (daily goal journal). Single-page scrollable site driving App Store downloads and organic search traffic.
 
 ## Tech Stack
 
