@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://taraschernysh.github.io/DailyGoalsManifestationWeb/sitemap.xml
