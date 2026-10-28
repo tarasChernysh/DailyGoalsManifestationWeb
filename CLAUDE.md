@@ -6,6 +6,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 TenGoals — a static marketing website for the TenGoals iOS app (daily goal journal). Single-page scrollable site driving App Store downloads and organic search traffic.
 
+**Not Tenly.** This repo (`tarasChernysh/dailygoalsmanifestationweb`) is the unrelated **TenGoals** app's site.
+It is easy to confuse with **Tenly** (Brian Tracy's 10 goals method, repo `tarasChernysh/TenlyGoals`, local
+checkout `/Users/taraschernysh/SU/TenlyGoals`), whose iOS app source happens to live in a folder named
+`/Users/taraschernysh/SU/DailyManifestation` — similar-sounding, different product. This repo has no
+`content-plan/AUTOPILOT.md` and no scheduled blog-post task.
+
 ## Tech Stack
 
 - **Vanilla HTML/CSS/JS** — no build step, no frameworks
